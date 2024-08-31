@@ -1,0 +1,36 @@
+.list-group-item{
+    text-align: center;
+}
+nav-link active:hover{
+    color: rgb(255, 0, 195);
+}
+.galaxy{
+    width: 700px;
+}
+.card1{
+    
+    margin-top: 75px;
+    
+
+}
+p{
+direction: rtl;
+margin-right: -140px;
+font-size: large;
+}
+.card-title{
+    margin-right: -140px
+}
+.card{
+    
+}
+.card6{
+    margin-top: 87px;
+    border-color: solid black 3px;
+}
+.card-title{
+    text-align: center;
+}
+.card-link{
+    justify-content: center;
+}
